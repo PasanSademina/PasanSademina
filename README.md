@@ -108,31 +108,7 @@ const pasan = {
 
 </div>
 
----
-
-## 💡 Random Dev Quote
-
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Pasan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasansademina&theme=tokyo-night&hide_border=true&color=00D9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 "Code is poetry written in logic, and bugs are just misplaced metaphors!" 
-
-**💫 Thanks for visiting! Let's build something amazing together! 💫**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
