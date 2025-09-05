@@ -121,22 +121,6 @@ graph TD
 
 </div>
 
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 **Focus Area** | 📈 **Progress** | 🔥 **Status** |
-|:---:|:---:|:---:|
-| Web Development (Java/PHP) | ████████████████████ 90% | 🚀 Expert |
-| Frontend (React/HTML/CSS/JS) | ████████████████████ 85% | 💪 Strong |
-| Database (MySQL/Hibernate) | ███████████████████░ 85% | 🗄️ Proficient |
-| Android Development | ████████░░░░░░░░░░░░ 35% | 📱 Learning |
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
