@@ -96,32 +96,6 @@ const pasan = {
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 TraitGen Software Solution] --> B[Web Development]
-    A --> C[Mobile Development]
-    A --> D[Database Management]
-    B --> E[React Frontend]
-    B --> F[Java/PHP Backend]
-    C --> G[Android Apps]
-    C --> H[Mobile UI/UX]
-    D --> I[MySQL Database]
-    D --> J[Hibernate ORM]
-    
-    style C fill:#ff9999
-    style G fill:#ff9999
-    style H fill:#ff9999
-```
-
-</div>
-
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
