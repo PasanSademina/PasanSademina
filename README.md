@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Developer;Problem+Solver;Tech+Specialist)](https://git.io/typing-svg)
 
 
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pasan%20Sademina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Transforming%20Ideas%20Into%20Digital%20Reality&descAlignY=51&descAlign=50"/>
 
 </div>
